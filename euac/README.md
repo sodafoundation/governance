@@ -30,14 +30,16 @@ EUAC [member bios](https://sodafoundation.io/the-foundation/end-user-advisory-co
 The EUAC meets on the 2nd Friday of every month at 12midnight PST. This is a closed meeting. 
 
 Time: Jun 12, 2020 12:00 AM Pacific Time (US and Canada)
-        Every month on the Second Fri, until Dec 11, 2020, 7 occurrence(s)
-        Jun 12, 2020 12:00 AM
-        Jul 10, 2020 12:00 AM
-        Aug 14, 2020 12:00 AM
-        Sep 11, 2020 12:00 AM
-        Oct 9, 2020 12:00 AM
-        Nov 13, 2020 12:00 AM
-        Dec 11, 2020 12:00 AM
+
+Every month on the Second Fri, until Dec 11, 2020, 7 occurrence(s)
+* Jun 12, 2020 12:00 AM
+* Jul 10, 2020 12:00 AM
+* Aug 14, 2020 12:00 AM
+* Sep 11, 2020 12:00 AM
+* Oct 9, 2020 12:00 AM
+* Nov 13, 2020 12:00 AM
+* Dec 11, 2020 12:00 AM
+
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Monthly: https://us02web.zoom.us/meeting/tZAud--spzIsGNcUpROOdww3zM_VbMDQFPZU/ics?icsToken=98tyKuGsrTssHt2cthuERpwIA4igM-jxmFhdjY1eqQ_XLA9XdRSlLM99BLBSNOn2
 
@@ -49,13 +51,6 @@ One tap mobile
 +16699006833,,84306499623# US (San Jose)
 +13462487799,,84306499623# US (Houston)
 
-Dial by your location
-        +1 669 900 6833 US (San Jose)
-        +1 346 248 7799 US (Houston)
-        +1 253 215 8782 US (Tacoma)
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 929 436 2866 US (New York)
 Meeting ID: 843 0649 9623
 Find your local number: https://us02web.zoom.us/u/kiEGligLZ
 
