@@ -56,6 +56,6 @@ Find your local number: https://us02web.zoom.us/u/kiEGligLZ
 
 ## Meeting Agenda and Minutes
 
-The meeting Working Doc is [here](hhttps://docs.google.com/document/d/1jPAqgicFIV881-w_2ML4Dr63kkeK04o1BAuFzJ48Ma0/edit?usp=sharing). This includes minutes from previous meetings.
+The meeting Working Doc is [here](https://docs.google.com/document/d/1jPAqgicFIV881-w_2ML4Dr63kkeK04o1BAuFzJ48Ma0/edit?usp=sharing). This includes minutes from previous meetings.
 
 Please contact the EUAC chair if you are interested in presenting at a EUAC meeting 
