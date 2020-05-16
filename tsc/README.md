@@ -14,5 +14,5 @@ Slack  : [https://sodafoundation.io/slack/](https://sodafoundation.io/slack/)
 
 Twitter  : @sodafoundation
 
-Mailinglist  : [https://lists.opensds.io](https://lists.opensds.io/groups)
+Mailinglist  : [https://lists.sodafoundation.io](https://lists.sodafoundation.io/)
 
