@@ -4,7 +4,7 @@
 The key functions of SODA TSC and current representatives are detailed [here](https://sodafoundation.io/the-foundation/technical-steering-committee/)
 
 ## TSC Meeting Schedule, Agenda and Minutes
-SODA TSC meets regularly. The Schedule, Meeting links Agenda and Minutes are available [here](bit.ly/sodatscmeetingnotes)
+SODA TSC meets regularly. The Schedule, Meeting links Agenda and Minutes are available [here](https://bit.ly/sodatscmeetingnotes)
 
 ## Join SODA Foundation
 
